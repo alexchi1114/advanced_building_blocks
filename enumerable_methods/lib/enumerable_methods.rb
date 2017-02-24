@@ -108,7 +108,7 @@ def multiply_els(array)
 		array.my_inject {|product, element| product*element}
 end
 
-puts multiply_els([2,4,5])
+
 
 
 
